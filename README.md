@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Привет! Я Тимур
 
-<!--
-**TimaCherezov/TimaCherezov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend-разработчик (.NET)
+🎓 Студент УрФУ (ФИИТ, 2 курс)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Обо мне
+
+Разрабатываю backend-приложения на C# и ASP.NET Core.
+Интересуюсь архитектурой, проектированием систем и интеграцией AI в сервисы.
+Стремлюсь писать чистый, масштабируемый и поддерживаемый код.
+
+---
+
+### 🛠 Стек
+
+* C#
+* ASP.NET Core
+* Entity Framework Core
+* PostgreSQL
+
+---
+
+### 📌 Проекты
+
+* **meethub** — Telegram-бот для знакомств (ASP.NET Core, EF Core, PostgreSQL)
+* **MarketMate** — AI-ассистент для подбора подарков (LLM, WebSocket, JWT)
+* **SocialNetwork** — соцсеть (ASP.NET Core, PostgreSQL, в разработке)
+
+---
+
+### 📫 Контакты
+
+📧 [timacherezov06@gmail.com](mailto:timacherezov06@gmail.com)
